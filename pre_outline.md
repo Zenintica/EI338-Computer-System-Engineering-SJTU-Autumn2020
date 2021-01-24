@@ -2,8 +2,6 @@
 
 ## Preliminaries
 
-- ssh ubuntu@111.230.168.157
-- sudo -i
 - switch to root@VM-0-6-ubuntu:/home/ubuntu/CSE
 
 ## proj 1
