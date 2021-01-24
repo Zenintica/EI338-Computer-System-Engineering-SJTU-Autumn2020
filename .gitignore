@@ -1,4 +1,7 @@
 /proj_1/*
+
 !/proj_1/jiffies.c
+
 !/proc_1/seconds.c
+
 !/proc_1/Makefile
