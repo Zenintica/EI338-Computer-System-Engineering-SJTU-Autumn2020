@@ -10,3 +10,5 @@
 /proj_4/*
 !/proj_4/cma.cpp
 !/proj_4/cma.h
+
+/.vscode/*
