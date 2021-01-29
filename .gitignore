@@ -2,5 +2,11 @@
 !/proj_1/jiffies.c
 !/proc_1/seconds.c
 !/proc_1/Makefile
+
+/proj_3/*
+!/proj_3/banker.cpp
+!/proj_3/resources.txt
+
 /proj_4/*
-!/proj_4/cma.c
+!/proj_4/cma.cpp
+!/proj_4/cma.h
