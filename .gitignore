@@ -3,6 +3,10 @@
 !/proc_1/seconds.c
 !/proc_1/Makefile
 
+/proj_2.2/*
+!/proj_2.2/pid.c
+!/proj_2.2/Makefile
+
 /proj_3/*
 !/proj_3/banker.cpp
 !/proj_3/resources.txt
